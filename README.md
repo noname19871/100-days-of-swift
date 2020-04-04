@@ -9,3 +9,4 @@
 * [Day 5](https://github.com/noname19871/100-days-of-swift/blob/master/Day%205.playground/Contents.swift) –– functions, parameters and errors
 * [Day 6](https://github.com/noname19871/100-days-of-swift/blob/master/Day%206.playground/Contents.swift) –– closures part one
 * [Day 7](https://github.com/noname19871/100-days-of-swift/blob/master/Day%206.playground/Contents.swift) –– closures part two
+*[Day 8](https://github.com/noname19871/100-days-of-swift/blob/master/Day%208.playground/Contents.swift) –– structs, properties, and methods
